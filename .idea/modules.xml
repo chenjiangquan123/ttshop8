@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/tt-manager/tt-manager-service/src/main/main.iml" filepath="$PROJECT_DIR$/tt-manager/tt-manager-service/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/main1.iml" filepath="$PROJECT_DIR$/tt-manager/tt-manager-pojo/src/main/main1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manager/tt-manager-web/src/main/main2.iml" filepath="$PROJECT_DIR$/tt-manager/tt-manager-web/src/main/main2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-common/src/main/main3.iml" filepath="$PROJECT_DIR$/tt-common/src/main/main3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/main4.iml" filepath="$PROJECT_DIR$/tt-manager/tt-manager-dao/src/main/main4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manager/tt-manager-interface/src/main/main5.iml" filepath="$PROJECT_DIR$/tt-manager/tt-manager-interface/src/main/main5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tt-manager/tt-manager-dao/src/test/test.iml" filepath="$PROJECT_DIR$/tt-manager/tt-manager-dao/src/test/test.iml" />
+    </modules>
+  </component>
+</project>
